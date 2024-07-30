@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sejam bem vindos ao meu perfil 👋
+- 🌱 Olá, meu nome é Bianca
 
-<!--
-**bianquinha2/bianquinha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+👯Gosto de fazer diversas coisas,me esforço sempre que possível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Estou tentando dar o meu maximo atualmente.
+
+💬 As melhores coisas a se fazer é dormir, escutar música e sair pra diversos lugares
+
+😄 Ficar em redes socias é um passatempo quando estou entediada.
+
+![](https://media1.tenor.com/m/Jp-zjV8BuvoAAAAC/aaaah-joy.gif)
